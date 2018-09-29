@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "Stefan Brand (-Epprecht)"
-resume_title:                   "Network Engineer"
+resume_title:                   "Computer Scientist"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "stefan.brand@stelia.ch"
@@ -35,10 +35,10 @@ resume_looking_for_work:        "yes"
 # comment out to hide
 resume_section_experience:      true
 resume_section_education:       true
-resume_section_projects:        true
+# resume_section_projects:        true
 resume_section_skills:          true
 resume_section_recognition:     true
-resume_section_links:           true
+# resume_section_links:           true
 resume_section_associations:    true
 # resume_section_interests:       true
 
