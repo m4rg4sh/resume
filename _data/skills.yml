@@ -1,12 +1,12 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# Languages
+- skill: Programming Languages
+  description: <ul><li>Java</li><li>Python</li><li>F#</li><li>C/C++</li><li>Lisp/Clojure</li></ul>
 
 # Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+- skill: Languages
+  description: <ul><li>German - native language</li><li>English - full professional proficiency</li><li>French - limited working proficiency</li><li>Spanish - elementary proficiency</li></ul>
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Areas of interest
+- skill: Areas of personal interest
+  description: <ul><li>IT Security</li><li>Infrastructure as code</li><li>Agile methods</li></ul>
