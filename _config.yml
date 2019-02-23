@@ -10,20 +10,24 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "Stefan Brand (-Epprecht)"
+resume_name:                    "Stefan Brand"
 resume_title:                   "Computer Scientist"
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "stefan.brand@stelia.ch"
 
 # the next two items are used for schema itemprops in _layouts/resume.html
-resume_contact_telephone:       "+1 562 481 4327"
+resume_contact_telephone:       "+41 77 432 73 87"
 resume_contact_address:         "8400 Winterthur, Switzerland"
 
-resume_header_contact_info:     "8400 Winterthur Switzerland • 562-4327 • stefan.brand@stelia.ch"
-display_header_contact_info:    "false"
+resume_header_contact_info:     "8400 Winterthur Switzerland • stefan.brand@stelia.ch"
+display_header_contact_info:    "true"
 
-resume_header_intro: "<p>My name is Stefan Brand and I'm a computer scientist / nerd / hacker / human. I have more than 10 year experience as a systems and network engineer and I'm currently finishing my BSc in Computer Science. I also know how to code things. I've worked with a vast array of technologies, languages, methods, vendors, etc. with a varying degree of proficiency. Want to know something specific? Ask away.</p>"
+resume_header_intro: "<p>My name is Stefan Brand and I'm a computer scientist, nerd, hacker and human. 
+I like working with all kinds of technology. 
+I have more than 10 year experience as a systems and network engineer and I'm currently finishing my BSc in Computer Science. I also strong developer skills and love to make things work. 
+I've worked with a vast array of technologies, languages, methods, vendors, etc. with a varying degree of proficiency. 
+Want to know something specific? Just ask away.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -40,12 +44,12 @@ resume_section_skills:          true
 resume_section_recognition:     true
 # resume_section_links:           true
 resume_section_associations:    true
-# resume_section_interests:       true
+resume_section_interests:       true
 
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/m4rg4sh/resume"
+  resume_github_url:            "https://github.com/m4rg4sh"
   resume_twitter_url:           "http://twitter.com/margash"
   # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
