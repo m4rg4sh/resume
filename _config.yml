@@ -23,10 +23,9 @@ resume_contact_address:         "8400 Winterthur, Switzerland"
 resume_header_contact_info:     "8400 Winterthur Switzerland • stefan.brand@stelia.ch"
 display_header_contact_info:    "true"
 
-resume_header_intro: "<p>My name is Stefan Brand and I'm a computer scientist, nerd, hacker and human. 
-I like working with all kinds of technology. 
+resume_header_intro: "<p>My name is Stefan Brand and I'm a computer scientist, nerd, hacker and human.<br />
 I have more than 10 year experience as a systems and network engineer and I'm currently finishing my BSc in Computer Science. I also strong developer skills and love to make things work. 
-I've worked with a vast array of technologies, languages, methods, vendors, etc. with a varying degree of proficiency. 
+I've worked with a vast array of technologies, languages, methods, vendors, etc. with a varying degree of proficiency.<br />
 Want to know something specific? Just ask away.</p>"
 
 # use "yes" to display the email contact button,
