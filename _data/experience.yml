@@ -1,19 +1,31 @@
 # Jobs
-# VP of Global Communications
-- company: Springfield International Human Rights Outreach
-  position: VP of Global Communications
-  duration: Oct, 2013 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+# Nine
+- company: Nine Internet Solutions AG
+  position: Network Engineer
+  duration: Jan, 2017 &mdash; today
+  summary: I'm currently working for the leading swiss managed service provider. Improvement, trouble-shooting and maintenace of the entire Brocade- and Cisco based network with more than 1000 servers in multiple locations.<ul class="resume-item-list"><li>Dispatching and coordinating the daily work of the network and datacenter infrastructure teams.</li><li>Leading of various projects.</li></ul>
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# VWD
+- company: vwd PortfolioNet Service AG
+  position: Junior System Engineer
+  duration:  Jan, 2014 &mdash; Dec, 2016
+  summary: Improvement, trouble-shooting and maintenace of the entire server and network infrastructure in a two man team, ensuring the 24/7 availability of a online portfolio management service.<ul class="resume-item-list"><li>Providing managed servers for core customers</li><li>Internal user support</li></ul>
 
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# STL
+- company: STL AG
+  position: Freelance System Engineer
+  duration:   Oct, 2013  &mdash; Nov, 2013
+  summary: Complete overhaul of the server and network infrastructure and introduction of a VPN solution.
+ 
+# Buesser
+- company: Büsser Informatik
+  position: PHP Programmer
+  duration:   Nov, 2011  &mdash; Feb, 2012
+  summary: Development of a mobile time tracking application in PHP. Migration of the plesk-based webhosting solution.
+  
+ # Jossi
+- company: Jossi AG
+  position: Apprentice System Engineer
+  duration:   Aug, 2007  &mdash; Aug, 2011
+  summary: Apprenticeship as a System Engineer. Maintenance and troubleshooting of the entire internal IT infrastructure as well as user support.
