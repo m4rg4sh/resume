@@ -1,9 +1,14 @@
 # Jobs
 # Nine
 - company: Nine Internet Solutions AG
+  position: Senior Engineer Datacenters & IT
+  duration: Jul, 2019 &mdash; Present
+  summary: Nine is the leading swiss managed service provider.<br/>As part of a self-directing Scrum team I ensure the availability and development of all internal IT services as well as the datacenter infrastructure.<br/>On top of that I act as the lead network engineer to make sure Nine stays as agile as it is.
+
+- company: Nine Internet Solutions AG
   position: Network Engineer
-  duration: Jan, 2017 &mdash; Present
-  summary: Nine is the leading swiss managed service provider.<br />Improvement, troubleshooting and maintenace of the entire Brocade- and Cisco based network with more than 1000 servers in multiple locations.<ul class="resume-item-list"><li>Dispatching and coordinating the daily work of the network and datacenter infrastructure teams.</li><li>Leading of various projects.</li></ul>
+  duration: Jan, 2017 &mdash; Jun, 2019
+  summary: Improvement, troubleshooting and maintenace of the entire Brocade- and Cisco based network with more than 1000 servers in multiple locations.<ul class="resume-item-list"><li>Dispatching and coordinating the daily work of the network and datacenter infrastructure teams.</li><li>Leading of various projects.</li></ul>
 
 # VWD
 - company: vwd PortfolioNet Service AG
